@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
+## Use this boilerplate as base for a new NextJS project
+Run the command:
+`yarn create next-app -e https://github.com/maryplank/nextJS-boilerplate`
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
